@@ -11,7 +11,7 @@ Python (Intermediate) - [Re.start() & Re.end()](https://www.hackerrank.com/chall
 
 
 Day 3:
-Python (Basic) - [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)
+Python (Basic) - [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/), [Nested List](https://www.hackerrank.com/challenges/nested-list)
 
 
 
