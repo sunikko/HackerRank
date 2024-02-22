@@ -16,7 +16,7 @@ Day 4 (21/02/2024):
 Python (Basic) - [String Validators](https://www.hackerrank.com/challenges/string-validators)
 
 Day 5 (22/02/2024):
-Python (Basic) - [exceptions](https://www.hackerrank.com/challenges/exceptions)
+Python (Basic) - [exceptions](https://www.hackerrank.com/challenges/exceptions), [find-a-string](https://www.hackerrank.com/challenges/find-a-string/)
 
 
 
