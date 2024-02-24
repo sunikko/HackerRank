@@ -18,6 +18,9 @@ Python (Basic) - [String Validators](https://www.hackerrank.com/challenges/strin
 Day 5 (22/02/2024):
 Python (Basic) - [exceptions](https://www.hackerrank.com/challenges/exceptions), [find-a-string](https://www.hackerrank.com/challenges/find-a-string/)
 
+Day 6 (23/02/2024):
+Python (Basic) - [Swap Case](https://www.hackerrank.com/challenges/swap-case),
+
 
 
 
