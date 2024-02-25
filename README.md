@@ -21,7 +21,8 @@ Python (Basic) - [exceptions](https://www.hackerrank.com/challenges/exceptions),
 Day 6 (23/02/2024):
 Python (Basic) - [Swap Case](https://www.hackerrank.com/challenges/swap-case),
 
-
+Day 7 (24/02/2024):
+Python (Basic) - [find-second-maximum-number-in-a-list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list),
 
 
 myself
