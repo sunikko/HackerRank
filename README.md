@@ -24,8 +24,14 @@ Python (Basic) - [Swap Case](https://www.hackerrank.com/challenges/swap-case),
 Day 7 (24/02/2024):
 Python (Basic) - [find-second-maximum-number-in-a-list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list),
 
-Day 7 (25/02/2024):
+Day 8 (25/02/2024):
 Python (Basic) - [merge-the-tools](https://www.hackerrank.com/challenges/merge-the-tools),
+
+Day 9 (26/02/2024): -
+
+Day 10 (27/02/2024):
+Python (Basic) - [capitalize](https://www.hackerrank.com/challenges/capitalize),
+
 
 
 
