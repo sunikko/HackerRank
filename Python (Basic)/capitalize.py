@@ -8,12 +8,16 @@ import sys
 
 # Complete the solve function below.
 def solve(s):
-    names = s.split()
+    need_to_be_cap = True
     return_str = ""
-    for name in names:
-        return_str = (return_str + " ") if return_str != "" else return_str
-        cap_name = name[0].upper() + name[1:]
-        return_str += cap_name
+    for chr in s:
+        if need_to_be_cap and chr != " ":
+            return_str += chr.upper()
+            need_to_be_cap = False
+        else:
+            return_str += chr
+            if chr == " ":
+                need_to_be_cap = True
     return return_str
 
 if __name__ == '__main__':
