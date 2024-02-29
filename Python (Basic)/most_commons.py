@@ -23,8 +23,10 @@ if __name__ == '__main__':
     # Python can sort by two things by returning a tuple for the key in the sorted method
     #  the negative sign is required on the numeric type to reverse its sorted order.
     # chr_dict = sorted(chr_dict.items(), key=lambda item: (item[-1], item[0])) ?? 
-    chr_list = sorted(chr_dict.items(), key=lambda item: item[0])
-    chr_list = sorted(chr_list, key=lambda item: item[1], reverse=True)
+    # chr_list = sorted(chr_dict.items(), key=lambda item: item[0])
+    # chr_list = sorted(chr_list, key=lambda item: item[1], reverse=True)
+    chr_list = sorted(chr_dict.items(), key=lambda item: (-item[1], item[0]))
+    
     for item in chr_list[:3]:
         print("{} {}".format(item[0], item[1]))
     
