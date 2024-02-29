@@ -33,6 +33,8 @@ Day 10 (27/02/2024):
 Python (Basic) - [capitalize](https://www.hackerrank.com/challenges/capitalize),
 
 
+Day 11 (28/02/2024):
+Python (Basic) - [no-idea](https://www.hackerrank.com/challenges/no-idea),
 
 
 myself
