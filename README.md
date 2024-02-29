@@ -36,7 +36,7 @@ Python (Basic) - [capitalize](https://www.hackerrank.com/challenges/capitalize),
 Day 11 (28/02/2024):
 Python (Basic) - [no-idea](https://www.hackerrank.com/challenges/no-idea),
 
-Day 11 (29/02/2024):
+Day 12 (29/02/2024):
 Python (Basic) - [most-commons](https://www.hackerrank.com/challenges/most-commons),
 
 
