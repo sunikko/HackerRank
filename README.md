@@ -45,6 +45,8 @@ Python (Basic) - [word-order](https://www.hackerrank.com/challenges/word-order),
 Day 13 (02/03/2024): haven't solved yet
 Python (Basic) - [python-time-delta](https://www.hackerrank.com/challenges/python-time-delta),
 
+Day 14 (03/03/2024):
+Python (Basic) - mock_interview practice
 
 myself
 [PEP 8](https://realpython.com/python-pep8/#:~:text=Naming%20Styles,-The%20table%20below&text=Separate%20words%20with%20underscores%20to%20improve%20readability.&text=Start%20each%20word%20with%20a,camel%20case%20or%20Pascal%20case.), [input().split()](https://pynative.com/python-accept-list-input-from-user/#:~:text=Use%20an%20input()%20function%20to%20accept%20the%20list%20elements,a%20string%20separated%20by%20space.&text=Next%2C%20the%20split()%20method,based%20on%20a%20specified%20delimiter.),
