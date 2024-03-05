@@ -48,8 +48,13 @@ Python (Basic) - [python-time-delta](https://www.hackerrank.com/challenges/pytho
 Day 14 (03/03/2024):
 Python (Basic) - mock_interview practice
 
-Day 14 (03/03/2024): decorators .,
+Day 14 (04/03/2024): decorators .,
 Python (Intermediate) - [decorators-2-name-directory](https://www.hackerrank.com/challenges/decorators-2-name-directory),
+
+Day 15 (05/03/2024): 
+Python (Intermediate) - [default-arguments](https://www.hackerrank.com/challenges/default-arguments),
+
+
 
 
 myself
