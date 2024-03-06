@@ -32,29 +32,28 @@ Day 9 (26/02/2024): -
 Day 10 (27/02/2024):
 Python (Basic) - [capitalize](https://www.hackerrank.com/challenges/capitalize),
 
-
 Day 11 (28/02/2024):
 Python (Basic) - [no-idea](https://www.hackerrank.com/challenges/no-idea),
 
 Day 12 (29/02/2024):
 Python (Basic) - [most-commons](https://www.hackerrank.com/challenges/most-commons),
 
-Day 12 (01/03/2024):
+Day 13 (01/03/2024):
 Python (Basic) - [word-order](https://www.hackerrank.com/challenges/word-order),
 
-Day 13 (02/03/2024): haven't solved yet
+Day 14 (02/03/2024): haven't solved yet
 Python (Basic) - [python-time-delta](https://www.hackerrank.com/challenges/python-time-delta),
 
-Day 14 (03/03/2024):
+Day 15 (03/03/2024):
 Python (Basic) - mock_interview practice
 
-Day 14 (04/03/2024): decorators .,
+Day 16 (04/03/2024): decorators .,
 Python (Intermediate) - [decorators-2-name-directory](https://www.hackerrank.com/challenges/decorators-2-name-directory),
 
-Day 15 (05/03/2024): 
+Day 17 (05/03/2024): 
 Python (Intermediate) - [default-arguments](https://www.hackerrank.com/challenges/default-arguments),
 
-Day 16 (06/03/2024): haven't solved yet
+Day 18 (06/03/2024):
 Python (Basic) - [the-minion-game](https://www.hackerrank.com/challenges/the-minion-game),
 
 
