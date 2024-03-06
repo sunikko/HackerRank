@@ -54,6 +54,9 @@ Python (Intermediate) - [decorators-2-name-directory](https://www.hackerrank.com
 Day 15 (05/03/2024): 
 Python (Intermediate) - [default-arguments](https://www.hackerrank.com/challenges/default-arguments),
 
+Day 16 (06/03/2024): haven't solved yet
+Python (Basic) - [the-minion-game](https://www.hackerrank.com/challenges/the-minion-game),
+
 
 
 
