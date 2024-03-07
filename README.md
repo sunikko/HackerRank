@@ -56,6 +56,8 @@ Python (Intermediate) - [default-arguments](https://www.hackerrank.com/challenge
 Day 18 (06/03/2024):
 Python (Basic) - [the-minion-game](https://www.hackerrank.com/challenges/the-minion-game),
 
+Day 19 (07/03/2024):
+Python (Basic) - [compress-the-string](https://www.hackerrank.com/challenges/compress-the-string),
 
 
 
