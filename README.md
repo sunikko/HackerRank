@@ -59,6 +59,9 @@ Python (Basic) - [the-minion-game](https://www.hackerrank.com/challenges/the-min
 Day 19 (07/03/2024):
 Python (Basic) - [compress-the-string](https://www.hackerrank.com/challenges/compress-the-string),
 
+Day 20 (08/03/2024):
+Python (Basic) - [write-a-function](https://www.hackerrank.com/challenges/write-a-function),
+
 
 
 myself
