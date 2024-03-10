@@ -62,6 +62,9 @@ Python (Basic) - [compress-the-string](https://www.hackerrank.com/challenges/com
 Day 20 (08/03/2024):
 Python (Basic) - [write-a-function](https://www.hackerrank.com/challenges/write-a-function),
 
+Day 21 (09/03/2024): haven't solved yet
+Python (Basic) - [python-quest-1](https://www.hackerrank.com/challenges/python-quest-1),
+
 
 
 myself
