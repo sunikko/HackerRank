@@ -41,8 +41,8 @@ Python (Basic) - [most-commons](https://www.hackerrank.com/challenges/most-commo
 Day 13 (01/03/2024):
 Python (Basic) - [word-order](https://www.hackerrank.com/challenges/word-order),
 
-Day 14 (02/03/2024): haven't solved yet
-Python (Basic) - [python-time-delta](https://www.hackerrank.com/challenges/python-time-delta),
+Day 14 (02/03/2024):
+Python (Basic) - [python-time-delta](https://www.hackerrank.com/challenges/python-time-delta), [ haven't solved yet ]
 
 Day 15 (03/03/2024):
 Python (Basic) - mock_interview practice
@@ -62,8 +62,8 @@ Python (Basic) - [compress-the-string](https://www.hackerrank.com/challenges/com
 Day 20 (08/03/2024):
 Python (Basic) - [write-a-function](https://www.hackerrank.com/challenges/write-a-function),
 
-Day 21 (09/03/2024): haven't solved yet
-Python (Basic) - [python-quest-1](https://www.hackerrank.com/challenges/python-quest-1),
+Day 21 (09/03/2024):
+Python (Basic) - [python-quest-1](https://www.hackerrank.com/challenges/python-quest-1), [ haven't solved yet ]
 
 Day 22 (10/03/2024): 
 Python (Basic) - pair_programming week3 : set Operations
