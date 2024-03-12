@@ -68,6 +68,10 @@ Python (Basic) - [python-quest-1](https://www.hackerrank.com/challenges/python-q
 Day 22 (10/03/2024): 
 Python (Basic) - pair_programming week3 : set Operations
 
+Day 23 (11/03/2024):
+Python (Basic) - [maximize-it](https://www.hackerrank.com/challenges/maximize-it), [ couldn't pass some cases ]
+
+
 
 
 myself
