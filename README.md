@@ -71,6 +71,9 @@ Python (Basic) - pair_programming week3 : set Operations
 Day 23 (11/03/2024):
 Problem Solving (Basic) - [maximize-it](https://www.hackerrank.com/challenges/maximize-it), [ couldn't pass some cases ]
 
+Day 24 (12/03/2024):
+Python (Basic) - [python-lists](https://www.hackerrank.com/challenges/python-lists),
+
 
 
 
