@@ -74,6 +74,8 @@ Problem Solving (Basic) - [maximize-it](https://www.hackerrank.com/challenges/ma
 Day 24 (12/03/2024):
 Python (Basic) - [python-lists](https://www.hackerrank.com/challenges/python-lists),
 
+Day 25 (13/03/2024):
+Python (Basic) - [piling-up](https://www.hackerrank.com/challenges/piling-up),
 
 
 
