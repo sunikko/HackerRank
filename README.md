@@ -83,7 +83,7 @@ Python (Basic) - [python-sort-sort](https://www.hackerrank.com/challenges/python
 Day 27 (15/03/2024): -
 
 Day 28 (16/03/2024):
-Python (Basic) - [whats-your-name](https://www.hackerrank.com/challenges/whats-your-name),
+Python (Basic) - [whats-your-name](https://www.hackerrank.com/challenges/whats-your-name), [python_string_split_and_join](https://www.hackerrank.com/challenges/python_string_split_and_join) 
 
 
 
