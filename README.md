@@ -85,7 +85,7 @@ Day 27 (15/03/2024): -
 Day 28 (16/03/2024):
 Python (Basic) - [whats-your-name](https://www.hackerrank.com/challenges/whats-your-name), [python_string_split_and_join](https://www.hackerrank.com/challenges/python_string_split_and_join) 
 
-Day 29 (17/03/2024): Python (Basic) - pair_programming week4 : Advanced Anagram Problem
+Day 29 (17/03/2024): Problem Solving (Basic) - pair_programming week4 : Advanced Anagram Problem
 
 
 
